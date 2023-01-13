@@ -3,5 +3,7 @@ orange
 yellow
 green
 blue
-purple
+indigo
+new color
+color
 violet
